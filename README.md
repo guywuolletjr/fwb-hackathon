@@ -19,4 +19,8 @@
   - [Modular Politics](https://arxiv.org/abs/2005.13701)
 
 
+# Data 
+
+`friends_with_benefits_transactions.csv` contains all Ethereum transactions where a FWB Pro member (defined at greater than 50 tokens) sent a transaction.
+
 

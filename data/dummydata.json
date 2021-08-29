@@ -1,0 +1,602 @@
+{
+    "006853677026017077": {
+        "member": false, 
+        "wallet": "0xow8m9ng7g8fj2o9g6do57a93xq31o4x0jp0u2ut4", 
+        "discord_id": "006853677026017077", 
+        "twitter": "@Octavius"
+    }, 
+    "786233618233646514": {
+        "member": false, 
+        "wallet": "0xeq2s4jl2q8in3u4l0zj50h88nm95i6u1xj6v0li4", 
+        "discord_id": "786233618233646514", 
+        "twitter": "@Troy"
+    }, 
+    "434591154407934762": {
+        "member": true, 
+        "wallet": "0xtf0i6fx0x4rr7w8p8bw38g57xr37b4j5yg6q0xf8", 
+        "discord_id": "434591154407934762", 
+        "twitter": "@Cullen"
+    }, 
+    "409559963438265430": {
+        "member": false, 
+        "wallet": "0xae2w2tf0m2va2b1c7li35g41yv18v0f5nr4c2wp2", 
+        "discord_id": "409559963438265430", 
+        "twitter": "@Malcolm"
+    }, 
+    "228243488428421872": {
+        "member": true, 
+        "wallet": "0xct8q5cp0s7nr9o0g8kd31c43jb32e0m7vn9c5kr3", 
+        "discord_id": "228243488428421872", 
+        "twitter": "@Clark"
+    }, 
+    "030871020127929512": {
+        "member": true, 
+        "wallet": "0xnz9n3dx8p1ip9h5y9de62s93dp29c2m2wx2a8nz7", 
+        "discord_id": "030871020127929512", 
+        "twitter": "@Kuame"
+    }, 
+    "432136631330429827": {
+        "member": true, 
+        "wallet": "0xzs7e9en4b2rj7t6d0jb23s28mf46s5o2pz5n2jg9", 
+        "discord_id": "432136631330429827", 
+        "twitter": "@Cairo"
+    }, 
+    "714765586399939327": {
+        "member": true, 
+        "wallet": "0xzh6n2wu5p2bq0r7d1zl78k66dj91a1r8aq3j0zs5", 
+        "discord_id": "714765586399939327", 
+        "twitter": "@Bradley"
+    }, 
+    "541266775202293715": {
+        "member": false, 
+        "wallet": "0xkj4l0wx3s8vb9n8r7tb02b03oi92d9z3jk2s8wq5", 
+        "discord_id": "541266775202293715", 
+        "twitter": "@Colorado"
+    }, 
+    "663069523944587682": {
+        "member": true, 
+        "wallet": "0xfk0l3ud9x8cq6p7m5qj08o94sx77c4o5vc9y2ai2", 
+        "discord_id": "663069523944587682", 
+        "twitter": "@Colby"
+    }, 
+    "108072730343238336": {
+        "member": true, 
+        "wallet": "0xml7v8fa0g7ka8f4a3zb78z50vk72n2i8gk4e8ta4", 
+        "discord_id": "108072730343238336", 
+        "twitter": "@Abbot"
+    }, 
+    "319851768932513315": {
+        "member": true, 
+        "wallet": "0xtx1k5qd3l9ol3e5y7sf79z75or86i9i1ed7r6pf7", 
+        "discord_id": "319851768932513315", 
+        "twitter": "@Gavin"
+    }, 
+    "422971436680157136": {
+        "member": true, 
+        "wallet": "0xmn1f6jt9s1ko1i9c3jk90z22up06k8d7fc7h7mp8", 
+        "discord_id": "422971436680157136", 
+        "twitter": "@Xenos"
+    }, 
+    "887394340298846686": {
+        "member": true, 
+        "wallet": "0xes6l4vi7r5dy5w1b1fj44z67qp74n0l7em8n4un5", 
+        "discord_id": "887394340298846686", 
+        "twitter": "@Oliver"
+    }, 
+    "077891044302929334": {
+        "member": true, 
+        "wallet": "0xra4l8gz5v3fl8s0g7gf71b00xk36t5s8rn5n0pu9", 
+        "discord_id": "077891044302929334", 
+        "twitter": "@Thaddeus"
+    }, 
+    "467586477476694907": {
+        "member": false, 
+        "wallet": "0xgz1b9ea6n5ck6g3v5je77e65gi60q8p7en1c8ms1", 
+        "discord_id": "467586477476694907", 
+        "twitter": "@Mannix"
+    }, 
+    "050814011456697450": {
+        "member": true, 
+        "wallet": "0xlv4e8sg8p0sl7n3h1sw47x35kt99e3o9jk3x7fg8", 
+        "discord_id": "050814011456697450", 
+        "twitter": "@Eric"
+    }, 
+    "259334881760743664": {
+        "member": true, 
+        "wallet": "0xhf0w9ni2m9lj5n3o1vu43x78as82n3g4tl5q7er9", 
+        "discord_id": "259334881760743664", 
+        "twitter": "@Sylvester"
+    }, 
+    "291969323152033713": {
+        "member": true, 
+        "wallet": "0xct4w6dx0h8mt1f8s6ht17k17rk80x7v4ir0j1hf0", 
+        "discord_id": "291969323152033713", 
+        "twitter": "@Eaton"
+    }, 
+    "448735327044507962": {
+        "member": false, 
+        "wallet": "0xqc9l2jy6c5ab7r9m9zf44f48zl29a1w0ks9a6cf3", 
+        "discord_id": "448735327044507962", 
+        "twitter": "@Timon"
+    }, 
+    "293387763194132999": {
+        "member": false, 
+        "wallet": "0xkr3u7tf4f5fr5w9h9ss74y47ao09j7b2zr8l6fn9", 
+        "discord_id": "293387763194132999", 
+        "twitter": "@Flynn"
+    }, 
+    "683321487114363538": {
+        "member": false, 
+        "wallet": "0xiy3l4yy8m4tm5e5p6la39k32pq88c4k7fw1g2sn6", 
+        "discord_id": "683321487114363538", 
+        "twitter": "@Randall"
+    }, 
+    "595410412136024452": {
+        "member": true, 
+        "wallet": "0xiu7s9oz8c4el9v0y4lz16e54dn11i0u0sn1c1pl5", 
+        "discord_id": "595410412136024452", 
+        "twitter": "@Vernon"
+    }, 
+    "815386591853861144": {
+        "member": false, 
+        "wallet": "0xwf7y3np3d8bv3n2o4by06k04yc81y5s5gw0h1nn9", 
+        "discord_id": "815386591853861144", 
+        "twitter": "@Carson"
+    }, 
+    "129491098566093337": {
+        "member": true, 
+        "wallet": "0xed8s5tk7i3em5s0v8ks30f02fz86n1e4bb3h7tt2", 
+        "discord_id": "129491098566093337", 
+        "twitter": "@Cade"
+    }, 
+    "764909997327641324": {
+        "member": true, 
+        "wallet": "0xwt1z6gs7v0zh3h7r2co56g86bk90b5d9bk1f4fp6", 
+        "discord_id": "764909997327641324", 
+        "twitter": "@Barrett"
+    }, 
+    "755682973896162146": {
+        "member": false, 
+        "wallet": "0xyx9o0ev6s4yn4n0f8kc42w29to18w7g2kw2s6ac7", 
+        "discord_id": "755682973896162146", 
+        "twitter": "@Isaac"
+    }, 
+    "339279403697293343": {
+        "member": false, 
+        "wallet": "0xwz4x2ky2n2fu4l6c3zu57o03gt37p3b1rd4r0ue6", 
+        "discord_id": "339279403697293343", 
+        "twitter": "@Tate"
+    }, 
+    "330340770020761712": {
+        "member": true, 
+        "wallet": "0xyt0d0dp0m8ea6r4u3aa83b73cn16v5n6tr1e7ag4", 
+        "discord_id": "330340770020761712", 
+        "twitter": "@Ryder"
+    }, 
+    "359464573766223648": {
+        "member": true, 
+        "wallet": "0xpx6i6aq1e0gj6y9g3rs97m42bq76h6r7tw3u0gm6", 
+        "discord_id": "359464573766223648", 
+        "twitter": "@Henry"
+    }, 
+    "013884045534510557": {
+        "member": true, 
+        "wallet": "0xdh4r4wz6t2jl4k9d8xy08z72ky97a9r5xw9m8pl4", 
+        "discord_id": "013884045534510557", 
+        "twitter": "@Xenos"
+    }, 
+    "876325907873045691": {
+        "member": true, 
+        "wallet": "0xos6u8kt5d5rd8u3g3kb41u03cb59w0j0ha8s7tp9", 
+        "discord_id": "876325907873045691", 
+        "twitter": "@Joel"
+    }, 
+    "290214057383035064": {
+        "member": true, 
+        "wallet": "0xsp0n8sf1u5zw0m5z6gk23y81gu45g8u1qg5j1ve4", 
+        "discord_id": "290214057383035064", 
+        "twitter": "@Cooper"
+    }, 
+    "909993641097961934": {
+        "member": true, 
+        "wallet": "0xxu0x8eu0o4ek6l6m2co46e64la20b0b8dk2t2ue6", 
+        "discord_id": "909993641097961934", 
+        "twitter": "@Russell"
+    }, 
+    "834330100467080392": {
+        "member": false, 
+        "wallet": "0xrh2d1kt3f2lm3b4p2tw43a75sn28h5o7mr4j3jl7", 
+        "discord_id": "834330100467080392", 
+        "twitter": "@Eagan"
+    }, 
+    "373394273510483291": {
+        "member": true, 
+        "wallet": "0xxi4w8mb3m1fc5f0j5to83e92la84o0s9vi0v9pc7", 
+        "discord_id": "373394273510483291", 
+        "twitter": "@Matthew"
+    }, 
+    "816003508053885063": {
+        "member": true, 
+        "wallet": "0xiu3c1vo9e6hc7h5l7pk27h46fj88c1l4ec9k3hg1", 
+        "discord_id": "816003508053885063", 
+        "twitter": "@Tanek"
+    }, 
+    "953722605457696449": {
+        "member": true, 
+        "wallet": "0xws2y9qg4u5kl6t1m7qk58h22dx39z2w5wa2l8bn9", 
+        "discord_id": "953722605457696449", 
+        "twitter": "@Merrill"
+    }, 
+    "720587534365651058": {
+        "member": false, 
+        "wallet": "0xym2q1kj9z8qp3s8z6gs26v19ne50a6i3cw2b8zd9", 
+        "discord_id": "720587534365651058", 
+        "twitter": "@Jin"
+    }, 
+    "933475918842248048": {
+        "member": true, 
+        "wallet": "0xee1e1lc0f8ya0t4r3dh24o00zv11r6z3fw1j6ls0", 
+        "discord_id": "933475918842248048", 
+        "twitter": "@Devin"
+    }, 
+    "471796647125060686": {
+        "member": true, 
+        "wallet": "0xaa5c1lw6s4jr3r0j3oy90s89ng79b7m5dt6x0lr2", 
+        "discord_id": "471796647125060686", 
+        "twitter": "@Rashad"
+    }, 
+    "594884947122833433": {
+        "member": false, 
+        "wallet": "0xkr9v8rk2i6ph7c7t1zm37r61of89x5x1co1x0gy0", 
+        "discord_id": "594884947122833433", 
+        "twitter": "@Marvin"
+    }, 
+    "887524619438517794": {
+        "member": true, 
+        "wallet": "0xso6n2of3s6if0p8u2nu03f95kk34k3z7rf0u6wv6", 
+        "discord_id": "887524619438517794", 
+        "twitter": "@Oren"
+    }, 
+    "122237181119428529": {
+        "member": true, 
+        "wallet": "0xlg2t0il9y1bc1z4i7yq52c49hv60v4o0zb7f1da8", 
+        "discord_id": "122237181119428529", 
+        "twitter": "@Gareth"
+    }, 
+    "566356862773163722": {
+        "member": true, 
+        "wallet": "0xxe0p4ej9b1hb6a2p4oc24u86nb10i5j2ri8f8bu0", 
+        "discord_id": "566356862773163722", 
+        "twitter": "@Derek"
+    }, 
+    "377479162046920451": {
+        "member": false, 
+        "wallet": "0xuy5h7nx6u8ay9x9f6ld74y40pl28i4i5vy0g2qk9", 
+        "discord_id": "377479162046920451", 
+        "twitter": "@Warren"
+    }, 
+    "340128282645404568": {
+        "member": true, 
+        "wallet": "0xly4k3eg9q4ge9l9w1cf42r67pr11o9x9xs2h0lt8", 
+        "discord_id": "340128282645404568", 
+        "twitter": "@Keith"
+    }, 
+    "022155510710333666": {
+        "member": true, 
+        "wallet": "0xsd1z4io7z2dx0f9b9kc59l73xs06c6w3yx8x6ow2", 
+        "discord_id": "022155510710333666", 
+        "twitter": "@Guy"
+    }, 
+    "660520022810571230": {
+        "member": true, 
+        "wallet": "0xhn3t6sv7c4et5o5e0nf86e99fu12u0l7lt7c1wq7", 
+        "discord_id": "660520022810571230", 
+        "twitter": "@Melvin"
+    }, 
+    "220977731709065952": {
+        "member": true, 
+        "wallet": "0xxl8v4aw3t5jw0p7q5bl68f51bu47t1r7hp7q0rj9", 
+        "discord_id": "220977731709065952", 
+        "twitter": "@Beau"
+    }, 
+    "404232357965544245": {
+        "member": true, 
+        "wallet": "0xdc3o1fe4x1ck7e1q3fp01s88aw23a0j9yg8f4ku3", 
+        "discord_id": "404232357965544245", 
+        "twitter": "@Andrew"
+    }, 
+    "791441007840497875": {
+        "member": false, 
+        "wallet": "0xkc8c3cz0z5yi8d0n1cc98a69ui16m1v9ms7v2fy2", 
+        "discord_id": "791441007840497875", 
+        "twitter": "@Justin"
+    }, 
+    "269488581272680822": {
+        "member": true, 
+        "wallet": "0xlg9l7qg3s1lr0f2q2fz74h83ru50x6h3nh3r9vn6", 
+        "discord_id": "269488581272680822", 
+        "twitter": "@Abel"
+    }, 
+    "744273372476348552": {
+        "member": true, 
+        "wallet": "0xov9l0cp6b2od5r9q1qs45q02eq79a0v7dc6f5iw1", 
+        "discord_id": "744273372476348552", 
+        "twitter": "@Vladimir"
+    }, 
+    "518650029008714614": {
+        "member": true, 
+        "wallet": "0xpi7k1rg5h5pn9u4t1bw76a20bm59a5l4uj4y1ui9", 
+        "discord_id": "518650029008714614", 
+        "twitter": "@Timothy"
+    }, 
+    "385720223854428163": {
+        "member": true, 
+        "wallet": "0xif3s6br8k7ml0o7a2vc62v79ue09l4w7qh2p0fh4", 
+        "discord_id": "385720223854428163", 
+        "twitter": "@Amos"
+    }, 
+    "014416648164105687": {
+        "member": true, 
+        "wallet": "0xfp6r5sf5z8uu5i9d5fe40w20ay40a3m1pp9l2zg4", 
+        "discord_id": "014416648164105687", 
+        "twitter": "@Thaddeus"
+    }, 
+    "325802393109029160": {
+        "member": true, 
+        "wallet": "0xxp9m7sy3j4mk7s0y7ke22g51kq29o4m1hy0o6em5", 
+        "discord_id": "325802393109029160", 
+        "twitter": "@Neil"
+    }, 
+    "107280978894852247": {
+        "member": false, 
+        "wallet": "0xex0x6hb4s8lq9x6q3rj81u41oo70o9r1zo4d8mx6", 
+        "discord_id": "107280978894852247", 
+        "twitter": "@Phelan"
+    }, 
+    "991236744498714040": {
+        "member": true, 
+        "wallet": "0xrq0z6cc4i0yn0v5v7fv46z45rx97z8z1ky7j4ms3", 
+        "discord_id": "991236744498714040", 
+        "twitter": "@Levi"
+    }, 
+    "863037028079702956": {
+        "member": false, 
+        "wallet": "0xlv2y3cn8i6vy5r8x7hu05g64mt03a3b3df4s2wv1", 
+        "discord_id": "863037028079702956", 
+        "twitter": "@Thaddeus"
+    }, 
+    "010338028073867940": {
+        "member": true, 
+        "wallet": "0xlf8f8sn5j5in5n4w1vk39g75pf11l9d7fq9h9tm9", 
+        "discord_id": "010338028073867940", 
+        "twitter": "@Dillon"
+    }, 
+    "456367991026868388": {
+        "member": true, 
+        "wallet": "0xft9v9vg7h9bh9k6w8dv07o44hv81n0e6ph4c0am7", 
+        "discord_id": "456367991026868388", 
+        "twitter": "@Connor"
+    }, 
+    "445053675239540739": {
+        "member": true, 
+        "wallet": "0xvg1w4tr8i0xg9q9w2sa07t22mz03t4d0qa4p9sx2", 
+        "discord_id": "445053675239540739", 
+        "twitter": "@Raymond"
+    }, 
+    "183913597734359823": {
+        "member": false, 
+        "wallet": "0xjh6b9eb9u8jo3x3t3ow62y50oq98b9j0ll2c6rg2", 
+        "discord_id": "183913597734359823", 
+        "twitter": "@Stephen"
+    }, 
+    "236362364799385617": {
+        "member": false, 
+        "wallet": "0xss8e2kt0q7wa0o9h4pk55c79ql36r4s0kk9n3eu2", 
+        "discord_id": "236362364799385617", 
+        "twitter": "@Wang"
+    }, 
+    "191958463296371269": {
+        "member": true, 
+        "wallet": "0xyy8s5je8l3jt9b3t5jf07p79ba07h4x0eg4y2th7", 
+        "discord_id": "191958463296371269", 
+        "twitter": "@Cole"
+    }, 
+    "345309372093172171": {
+        "member": true, 
+        "wallet": "0xbj0f4ck5e0xk5j8u7eg04i93dz31l0b0xm4s3vp0", 
+        "discord_id": "345309372093172171", 
+        "twitter": "@Patrick"
+    }, 
+    "602507348032925927": {
+        "member": true, 
+        "wallet": "0xki9i9jk5c7ci1z5d2vb91z58ig31k0q6jw7v3xd8", 
+        "discord_id": "602507348032925927", 
+        "twitter": "@Jonah"
+    }, 
+    "484061164623750526": {
+        "member": false, 
+        "wallet": "0xgj3g5kh5u0er9q3j5jk06c73ig51h5j8ts5b9ow2", 
+        "discord_id": "484061164623750526", 
+        "twitter": "@Noah"
+    }, 
+    "317825415577942973": {
+        "member": false, 
+        "wallet": "0xkw0v2ut3q7ma1g8a8rl84d78bo58a5a3ua8b0fj4", 
+        "discord_id": "317825415577942973", 
+        "twitter": "@Abraham"
+    }, 
+    "676479222697859159": {
+        "member": false, 
+        "wallet": "0xyk6c7zj7y6yg9f6l0dw23i37co65s9j4tz6m8df1", 
+        "discord_id": "676479222697859159", 
+        "twitter": "@Yardley"
+    }, 
+    "966924248449690634": {
+        "member": true, 
+        "wallet": "0xoi2v8ov2q6fz4b0m4eu36u49mm73r1n4za3i8qj2", 
+        "discord_id": "966924248449690634", 
+        "twitter": "@Giacomo"
+    }, 
+    "209022856161820146": {
+        "member": false, 
+        "wallet": "0xwg7u3ma2y9ii0h1v9mi20o40eo67s1z6xr3a6gj1", 
+        "discord_id": "209022856161820146", 
+        "twitter": "@Zephania"
+    }, 
+    "666390153320898347": {
+        "member": false, 
+        "wallet": "0xfq3z9qn9l0wn5z5r5bx09d32aq78w9b6ly6y0vv4", 
+        "discord_id": "666390153320898347", 
+        "twitter": "@Donovan"
+    }, 
+    "674381658331494599": {
+        "member": true, 
+        "wallet": "0xgu8b1kb3r5lj6n7a8vs36d57pq53w8d4pv2f7jy6", 
+        "discord_id": "674381658331494599", 
+        "twitter": "@Edan"
+    }, 
+    "486241295685763100": {
+        "member": false, 
+        "wallet": "0xqe7r3ht0i9nw7e3a6on39g16gd34j5d5vr5j8dl9", 
+        "discord_id": "486241295685763100", 
+        "twitter": "@Herman"
+    }, 
+    "289931814040985442": {
+        "member": true, 
+        "wallet": "0xlj3d2ys9v6xg9g0c6rr80u10dg28q9q2rt4m0eb8", 
+        "discord_id": "289931814040985442", 
+        "twitter": "@Evan"
+    }, 
+    "562774740334508459": {
+        "member": true, 
+        "wallet": "0xzc2k2zq7q1br5j5u3ao79j68ly97q0j4rq2o1vl6", 
+        "discord_id": "562774740334508459", 
+        "twitter": "@Stewart"
+    }, 
+    "221249443052393858": {
+        "member": true, 
+        "wallet": "0xju8x5ib6y5da1b6m2yq87z75hw52x9a3ab1t9bt4", 
+        "discord_id": "221249443052393858", 
+        "twitter": "@Uriah"
+    }, 
+    "388855111714509925": {
+        "member": true, 
+        "wallet": "0xih4i7th6s1qb9d9f7qo88i65zf65x5q6qe6p3kf7", 
+        "discord_id": "388855111714509925", 
+        "twitter": "@Kamal"
+    }, 
+    "935780857799772875": {
+        "member": true, 
+        "wallet": "0xnr6x5af9m3zt3b0o3cw81y67tt95h3c1vn6u8zk5", 
+        "discord_id": "935780857799772875", 
+        "twitter": "@Wang"
+    }, 
+    "762320895994679319": {
+        "member": false, 
+        "wallet": "0xir8w7uo4f9sy6o5g9ps64s79yg33u8l6yf8e9sc5", 
+        "discord_id": "762320895994679319", 
+        "twitter": "@Tyrone"
+    }, 
+    "736303065807847736": {
+        "member": true, 
+        "wallet": "0xtm5u4vt3s7hv1k4s6sg80f17fe38a0r8zl7g2fd4", 
+        "discord_id": "736303065807847736", 
+        "twitter": "@Harrison"
+    }, 
+    "372579923306586831": {
+        "member": false, 
+        "wallet": "0xsm7o9fm9c0lc1i9a4bz73l98bx74t7i6si8l7hl1", 
+        "discord_id": "372579923306586831", 
+        "twitter": "@Jakeem"
+    }, 
+    "233942352466419351": {
+        "member": true, 
+        "wallet": "0xhs4i3oy3u8ja7o9p0uy66j76on40h7h3yu7v2ry6", 
+        "discord_id": "233942352466419351", 
+        "twitter": "@Honorato"
+    }, 
+    "524330347374640148": {
+        "member": true, 
+        "wallet": "0xyb7z6fv1e2dz3r3e0ku16f20hg16r4v7vl2t3yq7", 
+        "discord_id": "524330347374640148", 
+        "twitter": "@Allistair"
+    }, 
+    "826427437210908037": {
+        "member": false, 
+        "wallet": "0xfe8f3jz9q0cg6w1e3lb42o28un55s8i4op7w7do0", 
+        "discord_id": "826427437210908037", 
+        "twitter": "@Samuel"
+    }, 
+    "898859517777842726": {
+        "member": true, 
+        "wallet": "0xtv1t3ri7h3pi7r3o0lm44q82kt39y3k4fh6y4wp1", 
+        "discord_id": "898859517777842726", 
+        "twitter": "@Brennan"
+    }, 
+    "690878699808387495": {
+        "member": true, 
+        "wallet": "0xlp6e9rl1o7bd6k9b2su18e28ex72v2u1qx3y2tf1", 
+        "discord_id": "690878699808387495", 
+        "twitter": "@Vance"
+    }, 
+    "324552992911456060": {
+        "member": true, 
+        "wallet": "0xcj4m2pn4u9pf7i3c9df33i43ti03b8l2ki6s3xb4", 
+        "discord_id": "324552992911456060", 
+        "twitter": "@Hoyt"
+    }, 
+    "892451598733822230": {
+        "member": true, 
+        "wallet": "0xgx3r0op2z2sp9k2f1te71r81jj40u2d0ax2i8ha1", 
+        "discord_id": "892451598733822230", 
+        "twitter": "@Linus"
+    }, 
+    "578938499674104108": {
+        "member": false, 
+        "wallet": "0xsm1b9pd9l4ft1t5o1kt47d40kc35x4j9eb2x7in9", 
+        "discord_id": "578938499674104108", 
+        "twitter": "@Raphael"
+    }, 
+    "076841074370268265": {
+        "member": true, 
+        "wallet": "0xfa5l1df5w0ld3f4y1vo06q40yb63g1y4mn9k1rx0", 
+        "discord_id": "076841074370268265", 
+        "twitter": "@Dolan"
+    }, 
+    "541407740774412020": {
+        "member": true, 
+        "wallet": "0xoc0j5lr4d9qo2j7g6iy79p05yw91s3b9tp9r9kr4", 
+        "discord_id": "541407740774412020", 
+        "twitter": "@Clinton"
+    }, 
+    "596861903725745907": {
+        "member": false, 
+        "wallet": "0xtt6o1bj3r3ws3a9x2qy51o07uk35y3x0my2u0gl8", 
+        "discord_id": "596861903725745907", 
+        "twitter": "@Moses"
+    }, 
+    "400983977356974941": {
+        "member": true, 
+        "wallet": "0xwi9r1qq5l8lk7p0t5tx27z88wz83m5l9jb9j6hs2", 
+        "discord_id": "400983977356974941", 
+        "twitter": "@Xander"
+    }, 
+    "376904137922457166": {
+        "member": true, 
+        "wallet": "0xoz8r5ya4v9rd2u8s9lh86q03jn56y3g0mt6w0td4", 
+        "discord_id": "376904137922457166", 
+        "twitter": "@Oleg"
+    }, 
+    "204601093525154665": {
+        "member": true, 
+        "wallet": "0xdc5g0og5t6rq5r4y0rf71j28vd54w2l9vy7t3te7", 
+        "discord_id": "204601093525154665", 
+        "twitter": "@Boris"
+    }, 
+    "035342000385646255": {
+        "member": false, 
+        "wallet": "0xgk3v0gw4n6mq9b0f4ra68n18za05i2c5yn0y8wn7", 
+        "discord_id": "035342000385646255", 
+        "twitter": "@Flynn"
+    }
+}

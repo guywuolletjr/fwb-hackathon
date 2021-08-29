@@ -16,9 +16,11 @@ function App() {
     const onFormSubmit = e => {
         e.preventDefault()
         console.log(handle)
-        const list = getFollowing(handle)
-        console.log(list)
-        setFollowing(list)
+        getFollowing(handle).then(list => {
+                console.log(list)
+                setFollowing(list)
+        }
+        )
     }
     const onFormChange = e => {
         e.preventDefault()

@@ -1,7 +1,13 @@
 # fwb-hackathon
 [FWB Hackathon](https://www.fwb.help/hackathon)
 
-# Links + Resources 
+# Demo
+This app allows anyone to check how connected a twitter user is to the FWB community.
+Populated with dummy data, so try names like "@Patrick", "@Isaac", or "@Gavin".
+
+https://fwb-twitter.netlify.app/
+
+# Links + Resources we used
 - Dune 
   - https://dune.xyz/roshi/FWB-Dashboard
   - https://dune.xyz/brenner/FWB-(Friends-With-Benefits-DAO)

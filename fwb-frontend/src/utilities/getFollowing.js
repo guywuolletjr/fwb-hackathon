@@ -8,7 +8,10 @@ export function getFollowing(handle) {
         // Work with JSON data here
         // console.log(data[handle]);
         // retdata = data[handle]
-        return data[handle]
+        if (data.includes(handle)) {
+            return data[handle]
+        }
+        return []
     }).catch(err => {
         // Do something for an error here
         console.log("Error Reading data " + err);

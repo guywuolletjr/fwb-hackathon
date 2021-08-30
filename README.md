@@ -1,5 +1,4 @@
-# Outline 
-[Link](/spec/README.md)
+# [Outline](/spec/README.md)
 
 # fwb-hackathon
 [FWB Hackathon](https://www.fwb.help/hackathon)
